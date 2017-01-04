@@ -316,3 +316,17 @@ h3 {
       border: 0;
   }
 }
+
+.blabla
+{
+    display: none;
+}
+.carmera:hover .blabla
+{
+    display: block;
+    position: absolute;
+    top: 450px;
+    left: 280px;
+    font-size: 20pt;
+    font-weight: bold;
+}
